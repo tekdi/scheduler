@@ -4,9 +4,9 @@ This service provides the functionalities of scheduling the curriculum or syllab
 Database design
 
 Schedule
-| id    | title        | config         | duration      |   status     |
-|-------|--------------|----------------|---------------|--------------|
-|       |              |                |               |              |
+| id    | title        | config         |   status     | start-date | end-date|
+|-------|--------------|----------------|--------------|------------|---------|
+|       |              |                |              |            |         |
 
 Content
 
