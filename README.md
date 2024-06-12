@@ -23,9 +23,9 @@ subscription
 
 tracking
 
-| id    | schedule-id  | content-id     | created-date  | assignee | assigned_by  | self-assign | delay  | status |
-|-------|--------------|----------------|---------------|----------|--------------|-------------|--------|--------|
-|       |              |                |               |          |              |             |        |        |
+| id    | schedule-id  | content-id     | created-date  | completed-date| assignee | assigned_by  | self-assign | delay  | status |
+|-------|--------------|----------------|---------------|---------------|----------|--------------|-------------|--------|--------|
+|       |              |                |               |               |          |              |             |        |        |
 
 
 
