@@ -10,9 +10,9 @@ Schedule
 
 Content
 
-| id    |schedule-id| content  | content-detail | parent_id | duration | config  | context | context-id | prerequisite   | post-action | status   |
-|-------|-----------|----------|----------------|-----------|----------|---------|---------|------------|----------------|-------------|----------|
-|  1    |           |grammer   | Basic sentence | 0         |  1 week  | {JSON } |         |            | Letter knowing |assignment   |published |
+| id    |schedule-id| content  | content-detail | parent_id |order| duration | config  | context | context-id | prerequisite   | post-action | status   |
+|-------|-----------|----------|----------------|-----------|------|---------|---------|---------|------------|----------------|-------------|----------|
+|  1    |           |grammer   | Basic sentence | 0         |      | 1 week  | {JSON } |         |            | Letter knowing |assignment   |published |
 
 
 subscription
