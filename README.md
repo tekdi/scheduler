@@ -1,5 +1,5 @@
 # scheduler
-This service provides the functionalities of scheduling the curriculum or syllabus or schedule or target plan. It is written in [Nest JS](https://github.com/nestjs/nest)
+This service provides the functionalities of scheduling the curriculum, syllabus, schedule, or target plan. It is written in [Nest JS](https://github.com/nestjs/nest)
 
 ## Features
 * CRUD APIs to create schedule and schedule details
