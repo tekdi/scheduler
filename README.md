@@ -54,15 +54,15 @@ end-date - 2024-08-06T11:56:27.259Z
 
 ### subscription
 
-| id    | schedule-id  | start-date     | end-date  | assignee | assigned_by  | self-assign | status |
-|-------|--------------|----------------|-----------|----------|--------------|-------------|--------|
-|       |              |                |           |          |              |             |        |
+| id         | schedule-id  | start-date     | end-date  | assignee    | assigned_by        | self-assign  | status |
+|------------|--------------|----------------|-----------|----------   |--------------      |------------- |--------|
+| primary key|foreign key   |                |           |SubscriberId |if assigned by other|If yes 1 or 0 |active  |
 
 ### tracking
 
-| id    | schedule-id  | content-id     | created-date  | start-date |completed-date| assignee | assigned_by  | self-assign | delay  | status |
-|-------|--------------|----------------|---------------|------------|--------------|----------|--------------|-------------|--------|--------|
-|       |              |                |               |            |              |          |              |             |        |        |
+| id        | schedule-id  | content-id | created-date  | start-date |completed-date       | created_by | delay  | status |
+|-----------|--------------|------------|---------------|------------|---------------------|------------|--------|--------|
+|primary key|foreign key   |foreign key |               |            |topic completion date|            |        |        |
 
 
 
