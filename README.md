@@ -4,6 +4,9 @@ This service provides the functionalities of scheduling the curriculum or syllab
 ## Features
 * CRUD APIs to create schedule and schedule details
 * CRUD APIs to subscribe to schedule and track schedule completion
+
+## Installation steps
+[In progress]
   
 ## Database design
 
