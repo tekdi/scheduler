@@ -64,5 +64,7 @@ end-date - 2024-08-06T11:56:27.259Z
 |-----------|--------------|------------|---------------|------------|---------------------|------------|--------|--------|
 |primary key|foreign key   |foreign key |               |            |topic completion date|            |        |        |
 
+## Postman Collection
+Find [here](https://vowelapis.postman.co/workspace/My-Workspace~039146b2-42d9-4179-8f8c-ea9a86983438/collection/548641-348fc27a-b57c-4f60-a04a-9e371b998a5d?action=share&creator=548641)
 
 
